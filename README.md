@@ -67,6 +67,18 @@
 
 ### 4. アプリケーションの実行
 
+仮想環境に入る
+
+Mac
+```
+source .venv/bin/activate
+```
+
+Windows
+```
+.\.venv\Scripts\activate
+```
+
 以下のコマンドでStreamlitアプリケーションを起動します。
 
 ```bash
